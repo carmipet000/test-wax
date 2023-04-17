@@ -21,7 +21,7 @@
 title:            'Munajat: a Digital Collection'
 description:      'A collection of texts representing the variety and reach of an Islamic devotional genre.'
 url:              'https://layilin.github.io'
-baseurl:          '/wax_munajat'
+baseurl:          '/test-wax'
 copyright:        'cf. image sources'
 logo:             '/assets/logo.png'
 
@@ -104,7 +104,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'Munajat'
         link: '/about/'
       - label: 'Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
