@@ -1,0 +1,125 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "mnj005",
+    "label": "Monājāt-hā, typical of prefatory prayers for long narrative poems in masnavi form",
+    "attribution": "Amīr Khusraw Dihlavī; Muḥammad Ḥusayn al-Kashmīrī (scribe)",
+    "_date": "1500",
+    "object_type": "prayer",
+    "location": "Mughal India",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj005/thumbnail.jpg",
+    "permalink": "/munajat/mnj005",
+    "lunr_id": 0
+  },
+  {
+    "pid": "mnj001",
+    "label": "Munājāt mawlānā amīr al-muʾminīn ʿAlī ibn Abī Ṭālib",
+    "attribution": "ʿAlī ibn Abī Ṭālib",
+    "_date": "1200",
+    "object_type": "prayer",
+    "location": "Iraq",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj001/thumbnail.jpg",
+    "permalink": "/munajat/mnj001",
+    "lunr_id": 1
+  },
+  {
+    "pid": "mnj010",
+    "label": "Munājāt ḥaḍrat ʿAlī rāḍi allāhu ta'ālā 'anhu",
+    "attribution": "ʿAlī ibn Abī Ṭālib; al-Ḥājj Muḥammad Zakarīyā-yi Samarqandī (scribe)",
+    "_date": "1800",
+    "object_type": "prayer",
+    "location": "the Islamic world",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj010/thumbnail.jpg",
+    "permalink": "/munajat/mnj010",
+    "lunr_id": 2
+  },
+  {
+    "pid": "mnj004",
+    "label": "Monājāt be-dargāh-e qāẓī al-ḥājāt, anthologized with Sufi didactic poetry",
+    "attribution": "Unknown; ʻAlī ibn Ḥāmī (scribe)",
+    "_date": "1500",
+    "object_type": "devotional poetry",
+    "location": "Safavid Iran",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj004/thumbnail.jpg",
+    "permalink": "/munajat/mnj004",
+    "lunr_id": 3
+  },
+  {
+    "pid": "mnj003",
+    "label": "Anṣārī's ilāhī-nāma",
+    "attribution": "ʿAbdallāh Anṣārī",
+    "_date": "1700",
+    "object_type": "prayer",
+    "location": "Safavid Iran",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj003/thumbnail.jpg",
+    "permalink": "/munajat/mnj003",
+    "lunr_id": 4
+  },
+  {
+    "pid": "mnj007",
+    "label": "Maxim taken from Anṣārī's Munājāt",
+    "attribution": "ʿAbdallāh Anṣārī; Mālek Daylamī (calligrapher)",
+    "_date": "1500",
+    "object_type": "calligraphy",
+    "location": "calligraphy",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj007/thumbnail.jpg",
+    "permalink": "/munajat/mnj007",
+    "lunr_id": 5
+  },
+  {
+    "pid": "mnj006",
+    "label": "from the Munājāt of Anṣārī with Decorative Borders",
+    "attribution": "ʿAbdallāh Anṣārī",
+    "_date": "1600",
+    "object_type": "prayer",
+    "location": "Mughal India",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj006/thumbnail.jpg",
+    "permalink": "/munajat/mnj006",
+    "lunr_id": 6
+  },
+  {
+    "pid": "mnj002",
+    "label": "Takhmīs based on munājāt attributed to ʿAlī",
+    "attribution": "ʿAlī ibn Abī Ṭālib; al-Jawdarī",
+    "_date": "1400",
+    "object_type": "devotional poetry",
+    "location": "Beirut, Lebanon",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj002/thumbnail.jpg",
+    "permalink": "/munajat/mnj002",
+    "lunr_id": 7
+  },
+  {
+    "pid": "mnj009",
+    "label": "Munājāt mawlā ḥaḍrat ʿAlī ʿalayhi al-salām",
+    "attribution": "ʿAlī ibn Abī Ṭālib",
+    "_date": "1900",
+    "object_type": "calligraphy",
+    "location": "the Islamic world",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj009/thumbnail.jpg",
+    "permalink": "/munajat/mnj009",
+    "lunr_id": 8
+  },
+  {
+    "pid": "mnj008",
+    "label": "Munājāt-e shāh-e auliyāʼ",
+    "attribution": "ʿAlī ibn Abī Ṭālib",
+    "_date": "1700",
+    "object_type": "prayer",
+    "location": "Late Safavid to early Qajar Iran",
+    "collection": "munajat",
+    "thumbnail": "/img/derivatives/simple/mnj008/thumbnail.jpg",
+    "permalink": "/munajat/mnj008",
+    "lunr_id": 9
+  }
+]
