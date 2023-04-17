@@ -1,17 +1,17 @@
 ---
 layout: page
-show_title: false
+show_title: true
 banner:
-  collection: qatar
-  pid: obj10
+  collection: munajat
+  pid: mnj001
   y: 25%
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+This digital collection is a [Wax](https://minicomp.github.io/wax/) prototype of Yilin La's research project on munajat, an Islamic devotional genre. Also see the project's [CollectionBuilder prototype](https://layilin.github.io/munajat/).
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+The collection items in this demo are sourced from digital libraries around the world.
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='munajat' %}
