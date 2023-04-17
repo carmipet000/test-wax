@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Munajat: a Digital Collection'
+title:            'Munājāt'
 description:      'A collection of texts representing the variety and reach of an Islamic devotional genre.'
 url:              'https://layilin.github.io'
 baseurl:          '/test-wax'
