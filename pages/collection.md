@@ -4,7 +4,6 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Through a curated sampling of munājāt manuscripts, this digital collection offers a glimpse into a rich tradition. Most manuscript images, sourced from other digital libraries, are in the public domain, though for better visualization and shorter load time, text objects are presented as cover images instead of full-text pdf documents, which interested readers are able to access via links provided in the metadata. 
 
-
-{% include collection_gallery.html collection='qatar' facet_by='object_type' %}
+{% include collection_gallery.html collection='munajat' facet_by='object_type' %}
